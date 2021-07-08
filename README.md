@@ -1,6 +1,10 @@
-# Yatri
-Technologies Used : Java , jdbc, sql
-IDE: Eclipse
+# Tours and Travel Management System
+Operating System : Windows
+Technology : Java
+IDE : My Eclipse
+Database : MySql8.0
+GUI used : Java Swing
+Java Version : J2SDK1.8
 
 Functionalities :
 1. User authentication
